@@ -1,0 +1,1544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd3be22b-6d16-415e-8248-af9ada15d3d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/migrations/0002_auto_20190112_1524.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/migrations/0003_auto_20190112_1537.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/migrations/0004_auto_20190114_1734.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/migrations/0005_auto_20190115_0938.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/migrations/0006_auto_20190116_1715.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/migrations/0007_auto_20190116_1759.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/migrations/0008_auto_20190117_1911.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/back/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myblog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myblog/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myblog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myblog/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/fonts/TaurusNormal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/fonts/TaurusNormal.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/fonts/TaurusNormal.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/404/left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/404/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/72.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/73.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/74.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/75.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/arclist/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/backtop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/banner/banner_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/banner/banner_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/banner/banner_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/baoman/baoman_01.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/baoman/baoman_02.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/browser.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/excerpt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/102.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/103.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/105.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/106.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/107.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/108.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/109.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/69.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/71.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/74.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/77.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/79.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/81.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/82.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/83.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/84.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/85.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/86.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/88.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/89.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/90.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/91.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/92.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/93.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/94.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/95.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/97.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/98.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/face/99.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/icon/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/icon/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/icon/favicon.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/icon/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/icon/icon.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/news-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/occupying.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/snow/snow0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/snow/snow1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/snow/snow2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/snow/snow3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/images/weixin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/js/admin-scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/js/html5shiv.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/js/jquery-1.11.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/js/jquery-2.1.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/js/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/js/selectivizr-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/kindeditor-all-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/kindeditor-all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/lang/ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/lang/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/lang/ko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/lang/ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/lang/zh-CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/lang/zh-TW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/anchor/anchor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/autoheight/autoheight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/baidumap/baidumap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/baidumap/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/baidumap/map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/clearhtml/clearhtml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/code/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/code/prettify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/code/prettify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/emoticons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/100.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/101.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/102.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/103.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/104.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/105.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/106.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/107.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/108.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/109.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/110.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/111.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/112.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/113.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/114.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/115.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/116.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/117.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/118.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/119.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/120.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/121.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/122.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/123.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/124.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/125.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/126.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/127.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/128.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/129.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/130.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/131.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/132.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/133.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/134.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/72.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/73.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/74.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/75.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/76.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/77.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/78.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/79.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/80.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/81.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/82.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/83.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/84.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/85.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/86.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/87.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/88.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/89.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/90.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/91.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/92.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/93.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/94.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/95.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/96.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/97.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/98.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/99.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/emoticons/images/static.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/filemanager/filemanager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/filemanager/images/file-16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/filemanager/images/file-64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/filemanager/images/folder-16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/filemanager/images/folder-64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/filemanager/images/go-up.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/fixtoolbar/fixtoolbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/flash/flash.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/image/image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/image/images/align_left.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/image/images/align_right.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/image/images/align_top.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/image/images/refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/insertfile/insertfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/lineheight/lineheight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/link/link.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/map/map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/map/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/media/media.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/multiimage/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/multiimage/images/select-files-en.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/multiimage/images/select-files-zh-CN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/multiimage/images/swfupload.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/multiimage/multiimage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/pagebreak/pagebreak.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/plainpaste/plainpaste.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/preview/preview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/quickformat/quickformat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/table/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/template/html/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/template/html/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/template/html/3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/template/template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/plugins/wordpaste/wordpaste.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/themes/common/anchor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/themes/common/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/themes/common/flash.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/themes/common/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/themes/common/media.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/themes/common/rm.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/themes/default/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/themes/default/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/themes/default/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/themes/qq/editor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/themes/qq/qq.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/kindeditor/themes/simple/simple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-ar-AR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-ar-AR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-bg-BG.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-bg-BG.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-ca-ES.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-ca-ES.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-cs-CZ.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-cs-CZ.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-da-DK.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-da-DK.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-de-DE.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-de-DE.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-es-ES.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-es-ES.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-es-EU.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-es-EU.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-fa-IR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-fa-IR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-fi-FI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-fi-FI.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-fr-FR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-fr-FR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-he-IL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-he-IL.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-hu-HU.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-hu-HU.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-id-ID.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-id-ID.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-it-IT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-it-IT.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-ja-JP.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-ja-JP.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-ko-KR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-ko-KR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-lt-LT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-lt-LT.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-nb-NO.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-nb-NO.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-nl-NL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-nl-NL.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-pl-PL.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-pl-PL.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-pt-BR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-pt-BR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-pt-PT.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-pt-PT.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-ro-RO.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-ro-RO.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-ru-RU.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-ru-RU.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-sk-SK.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-sk-SK.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-sl-SI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-sl-SI.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-sr-RS-Latin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-sr-RS-Latin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-sr-RS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-sr-RS.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-sv-SE.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-sv-SE.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-th-TH.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-th-TH.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-tr-TR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-tr-TR.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-uk-UA.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-uk-UA.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-vi-VN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-vi-VN.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-zh-CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-zh-CN.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-zh-TW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/lang/summernote-zh-TW.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/summernote.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/summernote.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/summernote/summernote.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/anchor/anchor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/attachment.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/attachment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/fileTypeImages/icon_chm.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/fileTypeImages/icon_default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/fileTypeImages/icon_doc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/fileTypeImages/icon_exe.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/fileTypeImages/icon_jpg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/fileTypeImages/icon_mp3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/fileTypeImages/icon_mv.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/fileTypeImages/icon_pdf.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/fileTypeImages/icon_ppt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/fileTypeImages/icon_psd.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/fileTypeImages/icon_rar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/fileTypeImages/icon_txt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/fileTypeImages/icon_xls.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/images/alignicon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/images/alignicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/images/file-icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/images/file-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/images/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/images/success.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/attachment/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/background/background.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/background/background.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/background/background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/background/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/background/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/charts/chart.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/charts/charts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/charts/charts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/charts/charts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/charts/images/charts0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/charts/images/charts1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/charts/images/charts2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/charts/images/charts3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/charts/images/charts4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/charts/images/charts5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/emotion/emotion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/emotion/emotion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/emotion/emotion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/emotion/images/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/emotion/images/bface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/emotion/images/cface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/emotion/images/fface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/emotion/images/jxface2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/emotion/images/neweditor-tab-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/emotion/images/tface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/emotion/images/wface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/emotion/images/yface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/gmap/gmap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/help/help.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/help/help.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/help/help.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/image/image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/image/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/image/image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/image/images/alignicon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/image/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/image/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/image/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/image/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/image/images/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/image/images/success.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/image/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/insertframe/insertframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/internal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/link/link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/map/map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/map/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/music/music.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/music/music.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/music/music.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/preview/preview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/scrawl/images/addimg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/scrawl/images/brush.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/scrawl/images/delimg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/scrawl/images/delimgH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/scrawl/images/empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/scrawl/images/emptyH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/scrawl/images/eraser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/scrawl/images/redo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/scrawl/images/redoH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/scrawl/images/scale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/scrawl/images/scaleH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/scrawl/images/size.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/scrawl/images/undo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/scrawl/images/undoH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/scrawl/scrawl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/scrawl/scrawl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/scrawl/scrawl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/searchreplace/searchreplace.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/searchreplace/searchreplace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/snapscreen/snapscreen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/spechars/spechars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/spechars/spechars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/table/dragicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/table/edittable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/table/edittable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/table/edittable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/table/edittd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/table/edittip.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/template/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/template/images/bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/template/images/pre0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/template/images/pre1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/template/images/pre2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/template/images/pre3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/template/images/pre4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/template/template.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/template/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/template/template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/video/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/video/images/center_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/video/images/file-icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/video/images/file-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/video/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/video/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/video/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/video/images/left_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/video/images/none_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/video/images/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/video/images/right_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/video/images/success.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/video/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/video/video.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/video/video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/video/video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/webapp/webapp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/wordimage/fClipboard_ueditor.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/wordimage/imageUploader.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/wordimage/tangram.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/wordimage/wordimage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/dialogs/wordimage/wordimage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/lang/en/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/lang/en/images/addimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/lang/en/images/alldeletebtnhoverskin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/lang/en/images/alldeletebtnupskin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/lang/en/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/lang/en/images/button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/lang/en/images/copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/lang/en/images/deletedisable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/lang/en/images/deleteenable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/lang/en/images/listbackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/lang/en/images/localimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/lang/en/images/music.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/lang/en/images/rotateleftdisable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/lang/en/images/rotateleftenable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/lang/en/images/rotaterightdisable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/lang/en/images/rotaterightenable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/lang/en/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/lang/zh-cn/images/copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/lang/zh-cn/images/localimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/lang/zh-cn/images/music.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/lang/zh-cn/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/lang/zh-cn/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/php/Uploader.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/php/action_crawler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/php/action_list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/php/action_upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/php/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/php/controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/css/ueditor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/css/ueditor.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/dialogbase.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/anchor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/arrow_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/arrow_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/button-bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/cancelbutton.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/charts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/cursor_h.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/cursor_h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/cursor_v.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/cursor_v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/dialog-title-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/filescan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/highlighted.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/icons-all.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/loaderror.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/lock.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/neweditor-tab-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/pagebreak.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/scale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/sortable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/spacer.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/sparator_v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/table-cell-align.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/tangram-colorpicker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/toolbar_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/unhighlighted.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/videologo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/word.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/default/images/wordpaste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/themes/iframe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/SyntaxHighlighter/shCore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/SyntaxHighlighter/shCoreDefault.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/codemirror/codemirror.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/codemirror/codemirror.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/adapters/mootools-adapter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/adapters/mootools-adapter.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/adapters/prototype-adapter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/adapters/prototype-adapter.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/adapters/standalone-framework.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/adapters/standalone-framework.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/highcharts-more.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/highcharts-more.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/highcharts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/highcharts.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/modules/annotations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/modules/annotations.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/modules/canvas-tools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/modules/canvas-tools.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/modules/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/modules/data.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/modules/drilldown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/modules/drilldown.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/modules/exporting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/modules/exporting.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/modules/funnel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/modules/funnel.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/modules/heatmap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/modules/heatmap.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/modules/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/modules/map.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/modules/no-data-to-display.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/modules/no-data-to-display.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/themes/dark-blue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/themes/dark-green.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/themes/gray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/themes/grid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/highcharts/themes/skies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/jquery-1.10.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/jquery-1.10.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/jquery-1.10.2.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/snapscreen/UEditorSnapscreen.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/video-js/font/vjs.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/video-js/font/vjs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/video-js/font/vjs.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/video-js/font/vjs.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/video-js/video-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/video-js/video-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/video-js/video-js.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/video-js/video.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/video-js/video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/webuploader/Uploader.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/webuploader/webuploader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/webuploader/webuploader.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/webuploader/webuploader.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/webuploader/webuploader.flashonly.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/webuploader/webuploader.flashonly.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/webuploader/webuploader.html5only.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/webuploader/webuploader.html5only.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/webuploader/webuploader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/webuploader/webuploader.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/webuploader/webuploader.withoutimage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/webuploader/webuploader.withoutimage.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/zeroclipboard/ZeroClipboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/zeroclipboard/ZeroClipboard.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/third-party/zeroclipboard/ZeroClipboard.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/ueditor.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/ueditor.all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/ueditor.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/ueditor.parse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/back/lib/ueditor/ueditor.parse.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/css/info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/css/infopic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/css/m.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/left1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/li.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/right1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/tx1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/tx10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/tx2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/tx3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/tx4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/tx5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/tx6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/tx7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/tx8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/tx9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/images/wx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/js/comm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/js/hc-sticky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/js/modernizr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/js/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/js/page2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/js/piccontent.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/web/js/scrollReveal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/add_article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/back/add_article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/back/add_category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/back/article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/back/articles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/back/back_template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/back/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/back/base_main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/back/category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/back/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/back/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/back/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/back/update_article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/back/update_category.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/update_article.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/web/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/web/article_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/web/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/web/base_main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/web/column_detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/web/gbook.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/web/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/web/infopic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/web/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/web/share.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/form.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/migrations/0002_auto_20190110_1923.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/views.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1665133872">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gif" value="2" />
+          <entry key="html" value="48" />
+          <entry key="ico" value="1" />
+          <entry key="jpeg" value="1" />
+          <entry key="jpg" value="28" />
+          <entry key="png" value="3" />
+          <entry key="py" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="48" />
+          <entry key="Image" value="35" />
+          <entry key="Python" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="211" />
+          <entry key="py" value="108" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="211" />
+          <entry key="Python" value="108" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/back/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/web/infopic.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8550">
+              <caret line="285" selection-start-line="285" selection-end-line="285" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/web/base_main.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myblog/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+              <folding>
+                <element signature="e#630#662#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-362">
+              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/back/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-600">
+              <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="13" column="98" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="98" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="9" column="44" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myblog/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1890">
+              <caret line="63" column="37" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>favicon</find>
+      <find>loginl</find>
+      <find>content</find>
+      <find>sr-only</find>
+      <find>btn btn-primary</find>
+      <find>select()</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/myblog/__init__.py" />
+        <option value="$PROJECT_DIR$/user/UserForm.py" />
+        <option value="$PROJECT_DIR$/user/models.py" />
+        <option value="$PROJECT_DIR$/user/form.py" />
+        <option value="$PROJECT_DIR$/templates/back/register.html" />
+        <option value="$PROJECT_DIR$/templates/web/web_templet.html" />
+        <option value="$PROJECT_DIR$/templates/back/add-article.html" />
+        <option value="$USER_HOME$/Desktop/个人博客项目/源码---Bootstrap响应式博客后台管理模板/add-article.html" />
+        <option value="$PROJECT_DIR$/myblog/settings.py" />
+        <option value="$USER_HOME$/Desktop/个人博客项目/源码---Bootstrap响应式博客后台管理模板/update-category.html" />
+        <option value="$PROJECT_DIR$/templates/back/base.html" />
+        <option value="$PROJECT_DIR$/templates/back/articles.html" />
+        <option value="$PROJECT_DIR$/templates/back/add_articles.html" />
+        <option value="$PROJECT_DIR$/templates/update_article.html" />
+        <option value="$PROJECT_DIR$/templates/back/index.html" />
+        <option value="$PROJECT_DIR$/templates/back/login.html" />
+        <option value="$PROJECT_DIR$/templates/back/update_category.html" />
+        <option value="$PROJECT_DIR$/templates/back/update_article.html" />
+        <option value="$PROJECT_DIR$/templates/back/article.html" />
+        <option value="$PROJECT_DIR$/web/urls.py" />
+        <option value="$PROJECT_DIR$/web/views.py" />
+        <option value="$PROJECT_DIR$/back/models.py" />
+        <option value="$PROJECT_DIR$/back/forms.py" />
+        <option value="$PROJECT_DIR$/templates/back/add_article.html" />
+        <option value="$PROJECT_DIR$/templates/back/category.html" />
+        <option value="$PROJECT_DIR$/back/urls.py" />
+        <option value="$PROJECT_DIR$/user/urls.py" />
+        <option value="$PROJECT_DIR$/templates/web/about.html" />
+        <option value="$PROJECT_DIR$/templates/web/article_detail.html" />
+        <option value="$PROJECT_DIR$/templates/web/base.html" />
+        <option value="$PROJECT_DIR$/templates/web/base_main.html" />
+        <option value="$PROJECT_DIR$/templates/web/column_detail.html" />
+        <option value="$PROJECT_DIR$/templates/web/gbook.html" />
+        <option value="$PROJECT_DIR$/templates/web/info.html" />
+        <option value="$PROJECT_DIR$/templates/web/infopic.html" />
+        <option value="$PROJECT_DIR$/templates/web/list.html" />
+        <option value="$PROJECT_DIR$/templates/web/share.html" />
+        <option value="$PROJECT_DIR$/back/views.py" />
+        <option value="$PROJECT_DIR$/user/views.py" />
+        <option value="$PROJECT_DIR$/templates/back/back_template.html" />
+        <option value="$PROJECT_DIR$/templates/back/base_main.html" />
+        <option value="$PROJECT_DIR$/myblog/urls.py" />
+        <option value="$PROJECT_DIR$/templates/web/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="720" />
+    <option name="width" value="720" />
+    <option name="height" value="860" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myblog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myblog" type="462c0819:PsiDirectoryNode" />
+              <item name="back" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myblog" type="462c0819:PsiDirectoryNode" />
+              <item name="myblog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myblog" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myblog" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\王老师代码\myblog\static" />
+      <recent name="D:\王老师代码\myblog\medias" />
+      <recent name="E:\thirdprograph\workspace\myblog\templates" />
+      <recent name="E:\thirdprograph\workspace\myblog\templates\back" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\thirdprograph\workspace\myblog\templates\back" />
+      <recent name="E:\thirdprograph\workspace\myblog\static\back" />
+      <recent name="E:\thirdprograph\workspace\myblog\templates\web" />
+      <recent name="E:\thirdprograph\workspace\myblog\static\web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="myblog" type="PythonConfigurationType" factoryName="Python">
+      <module name="myblog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd3be22b-6d16-415e-8248-af9ada15d3d2" name="Default Changelist" comment="" />
+      <created>1547091771754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547091771754</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12905501" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28167117" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.23418574" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/back/images/banner/banner_03.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/back/images/baoman/baoman_02.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/back/images/baoman/baoman_01.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/back/images/icon/favicon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/back/images/icon/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/back/images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/back/images/news-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/web/images/tx6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/web/images/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/web/images/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/back/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/back/category.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="29" column="51" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/back/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3030">
+          <caret line="101" column="10" lean-forward="true" selection-start-line="101" selection-start-column="10" selection-end-line="101" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/back/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/add_article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2610">
+          <caret line="289" column="28" selection-start-line="289" selection-start-column="28" selection-end-line="289" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/update_article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="49" column="47" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/back/add_article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4020">
+          <caret line="134" column="9" lean-forward="true" selection-start-line="134" selection-start-column="9" selection-end-line="134" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/back/add_category.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/back/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="49" column="60" selection-start-line="49" selection-start-column="60" selection-end-line="49" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/back/back_template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360">
+          <caret line="96" column="34" lean-forward="true" selection-start-line="96" selection-start-column="34" selection-end-line="96" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/back/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/back/base_main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="97" column="26" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/8.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/web/images/6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/web/images/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/web/images/tx3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/back/articles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="41" column="51" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/web/share.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="25" column="57" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/7.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/9.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/10.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/11.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/12.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/13.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/14.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/web/infopic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8550">
+          <caret line="285" selection-start-line="285" selection-end-line="285" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/web/base_main.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="13" column="98" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="98" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myblog/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="63" column="37" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myblog/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+          <folding>
+            <element signature="e#630#662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-362">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600">
+          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/back/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

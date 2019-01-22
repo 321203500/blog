@@ -1,0 +1,92 @@
+
+{% extends 'web/base_main.html' %}
+
+{% block title %}
+    乐生哥哥
+{% endblock %}
+
+{% block css %}
+    {% load static %}
+    {{ block.super }}
+    <link href="{% static 'web/css/index.css' %}" rel="stylesheet">
+{% endblock %}
+
+{% block js1 %}
+    <script src="{% static 'web/js/jquery.min.js' %}" type="text/javascript"></script>
+    <script type="text/javascript" src="{% static 'web/js/comm.js' %}"></script>
+{% endblock %}
+
+{% block left %}
+    <aside class="l_box">
+        <div class="about_me">
+            <h2>关于我</h2>
+            <ul>
+                <i><img src="/static/web/images/13.png"></i>
+                <p><b>乐生哥哥</b>&emsp;&emsp;均衡，是愚者的导师</p>
+            </ul>
+        </div>
+        <div class="wdxc">
+            <h2>我的相册</h2>
+            <ul>
+                <li><a href="{% url 'web:share' %}"><img src="/media/7.jpg"></a></li>
+                <li><a href="{% url 'web:share' %}"><img src="/media/8.jpg"></a></li>
+                <li><a href="{% url 'web:share' %}"><img src="/media/9.jpg"></a></li>
+                <li><a href="{% url 'web:share' %}"><img src="/media/10.jpg"></a></li>
+                <li><a href="{% url 'web:share' %}"><img src="/media/11.jpg"></a></li>
+                <li><a href="{% url 'web:share' %}"><img src="/media/12.jpg"></a></li>
+            </ul>
+        </div>
+        <div class="search">
+            <form action="" method="post" name="searchform" id="searchform">
+                <input name="keyboard" id="keyboard" class="input_text" value="请输入关键字词" style="color: rgb(153, 153, 153);" onfocus="if(value=='请输入关键字词'){this.style.color='#000';value=''}" onblur="if(value==''){this.style.color='#999';value='请输入关键字词'}" type="text">
+                <input name="show" value="title" type="hidden">
+                <input name="tempid" value="1" type="hidden">
+                <input name="tbname" value="news" type="hidden">
+                <input name="Submit" class="input_submit" value="搜索" type="submit">
+            </form>
+        </div>
+        <div class="fenlei">
+            <h2>文章分类</h2>
+            <ul>
+                {% for column in columns_list %}
+                    {% if column.0 %}
+                        <li><a href="{% url 'web:column_detail' column.1.id %}">{{ column.1.column_name }}（{{ column.0 }}）</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="tuijian">
+            <h2>站长推荐</h2>
+            <ul>
+                {% for article in articles %}
+                    <li><a href="{% url 'web:article_detail' article.id %}">{{ article.title }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="links">
+            <h2>友情链接</h2>
+            <ul>
+                <a href="https://yxj-saber.github.io">乐生哥哥</a> <a href="https://yxj-saber.github.io">乐生哥哥</a>
+            </ul>
+        </div>
+        <div class="guanzhu">
+            <h2>关注我 么么哒</h2>
+            <ul>
+                <img src="{% static 'web/images/wx.jpg' %}">
+            </ul>
+        </div>
+    </aside>
+{% endblock %}
+
+{% block right %}
+    <main class="r_box">
+
+        {% for article in articles %}
+            <li><i><a href="{% url 'web:article_detail' article.id %}"><img src="/media/{{ article.image }}"></a></i>
+                <h3><a href="{% url 'web:article_detail' article.id %}">{{ article.title }}</a></h3>
+                <p>{{ article.describe }}</p>
+            </li>
+        {% endfor %}
+
+    </main>
+{% endblock %}
